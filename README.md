@@ -10,3 +10,5 @@ QuickChat is a real time messaging web application built using the MERN Stack (M
 <br><br><br><br>
 
 <b> Chats:- </b>
+![image alt](https://github.com/prathameshwaghvade/QuickChat-App/blob/3c9037fa42dd600d1ea10b63098c0d669da7acb3/Chat.png
+)
